@@ -1,7 +1,9 @@
 ## Penngineering Projects
 
 ### Metal Detector
-> A working metal detector designed, simulated, built and demonstrated from scratch, as part of the ESE 3190 Final Project.
+<span style="color:red">
+*A working metal detector was designed, simulated, built and demonstrated from scratch, as part of the ESE 3190 Final Project.*
+</span>
 
 Oscillators were used to produce output sinusoidal waveforms whose frequency difference, w1-w2, increased as a function of the proximity of the metal to the detector. A mixer combined the oscillation frequencies into one signal, a CS amplifier produced different mathematical combinations of the oscillation frequencies, including the frequency difference, w1-w2, which was filtered by a Low Pass Filter, amplified by the Driver and outputted by the speaker
 
