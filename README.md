@@ -36,20 +36,20 @@ This involved three parts.
 ### Pong 🏓
 *Pong is one of the first ever computer games 🎮 created. It's quite simple - two paddles and a ball and the goal is to defeat the opponent by making them lose the ball. This was made as part of a ESE 3500 lab.*
 
-In this project, a LCD screen 🖥 is programmed using an Arduino Uno and SPI, and its graphics library is written with the help of some given .h files. A buzzer, joystick, LEDs, and a logic level shifter is also used. The NodeMCU board is used for wireless control of the joystick.
+In this project, a <span style="color:green">LCD screen</span> 🖥 is programmed using an Arduino Uno and <span style="color:green">SPI</span>, and its graphics library is written with the help of some given .h files. A buzzer, joystick, LEDs, and a logic level shifter is also used. The <span style="color:green">NodeMCU</span> board is used for wireless control of the joystick.
 
 > Skills: C, Microcontrollers
 
 ### Theremin 🎵
 *Theremin is an electronic musical 🎶 instrument controlled without physical contact by the performer, and in this case, controlled by the distance of the user's hand 🖐 from an ultrasonic sensor. This was made as part of a ESE 3500 lab.*
 
-Input capture was used to measure distance and hence pulse width. Timers, PWM, ADC and output compare was used to generate music of different frequencies through the buzzer. A photoresistor was added to control volume with light, and both continuous and discrete modes of operation were implemented.
+<span style="color:green">Input capture</span> was used to measure distance and hence pulse width. <span style="color:green">Timers, PWM, ADC and output compare </span>was used to generate music of different frequencies through the buzzer. A <span style="color:green">photoresistor</span> was added to control volume with light, and both <span style="color:green">continuous and discrete</span> modes of operation were implemented.
 
 > Skills: C, Microcontrollers
 
 ### Morse ┉┉
 *This device allows you to translate a Morse code signal to its alphanumeric representation. This was made as part of a ESE 3500 lab.*
 
-It works by first detecting an incoming signal using an input switch 🎚(using polling or interrupts), then translating and displaying the hidden message in ASCII onto a serial port. It also lights up LEDs based on what signals were received.
+It works by first detecting an incoming signal using an input switch 🎚(using <span style="color:green">polling or interrupts</span>), then translating and displaying the hidden message in ASCII onto a serial port. It also lights up LEDs based on what signals were received.
 
 > Skills: C, Microcontrollers
