@@ -19,6 +19,7 @@ This involved three parts.
 In all, the project hopes to prove useful in applications where human hands cannot be used in hazardous situations, telecommunications, and physical disability. 
 
 > Skills: C, Microcontrollers, Wireless Communication, Mechanical Design
+> Github
 
 ### Coupled Learning Neural Network 🧠
 > Skills: PCB Design & Assembly, Altium Designer
@@ -32,6 +33,7 @@ This involved three parts.
 3. Fixing alignment issues between the DSLR and SLM frame using <span style="color:green">matrix transformations</span>, to shine light precisely on the nanorobots.
 
 > Skills: Python, OpenCV, Optics, Spatial Light Modulator
+> Github
 
 ### Pong 🏓
 *Pong is one of the first ever computer games 🎮 created. It's quite simple - two paddles and a ball and the goal is to defeat the opponent by making them lose the ball. This was made as part of a ESE 3500 lab.*
@@ -46,10 +48,12 @@ A <span style="color:green">LCD screen</span> 🖥 is programmed using an Arduin
 <span style="color:green">Input capture</span> was used to measure distance and hence pulse width. <span style="color:green">Timers, PWM, ADC and output compare </span>was used to generate music of different frequencies through the buzzer. A <span style="color:green">photoresistor</span> was added to control volume with light, and both <span style="color:green">continuous and discrete</span> modes of operation were implemented.
 
 > Skills: C, Microcontrollers
+> Github
 
 ### Morse ┉┉
-*This device allows you to translate a Morse code signal to its alphanumeric representation. This was made as part of a ESE 3500 lab.*
+*Morse code signals was translated to its alphanumeric representation. This was made as part of a ESE 3500 lab.*
 
 Button presses and the duration of press was monitored using <span style="color:green">polling or interrupts</span> then translated into dots and dashes using <span style="color:green">timer overflows</span>. The message was converted to ASCII and displayed on a serial port. LEDs were also lit up based on whether a dot or a dash was received.
 
 > Skills: C, Microcontrollers
+> Github
