@@ -24,7 +24,7 @@ In all, the project hopes to prove useful in applications where human hands cann
 > Skills: PCB Design & Assembly, Altium Designer
 
 ### Closed-Loop Holographic Control of Nanorobots
-*Nanorobots were holographically illuminated and controlled in the field of view of a spatial light modulator (SLM) using a laser 🚨 and microscope 🔬.*
+*Nanorobots were holographically illuminated and controlled in the field of view of a spatial light modulator (SLM) using a laser 🚨 and microscope 🔬. This was my project during my summer at Miskin Labs.*
 
 This involved three parts.
 1. Investigating the <span style="color:green">Gerchberg-Saxton Algorithm</span> for the retrieval of phase information from intensity measurements and enabling the patterning of laser light.
@@ -34,21 +34,21 @@ This involved three parts.
 > Skills: Python, OpenCV, Optics, Spatial Light Modulator
 
 ### Pong
-*Pong is one of the first ever computer games 🎮 created. It's quite simple - two paddles and a ball 🏓 and the goal is to defeat the opponent by making them lose the ball.*
+*Pong is one of the first ever computer games 🎮 created. It's quite simple - two paddles and a ball 🏓 and the goal is to defeat the opponent by making them lose the ball. This was made as part of a ESE 3500 lab.*
 
 In this project, a LCD screen 🖥 is programmed using an Arduino Uno and SPI, and its graphics library is written with the help of some given .h files. A buzzer, joystick, LEDs, and a logic level shifter is also used. The NodeMCU board is used for wireless control of the joystick.
 
 > Skills: C, Microcontrollers
 
 ### Theremin
-*Theremin is an electronic musical 🎵🎶 instrument controlled without physical contact by the performer, and in this case, controlled by the distance of the user's hand 🖐 from an ultrasonic sensor.*
+*Theremin is an electronic musical 🎵🎶 instrument controlled without physical contact by the performer, and in this case, controlled by the distance of the user's hand 🖐 from an ultrasonic sensor. This was made as part of a ESE 3500 lab.*
 
-Timers, PWM, output compare, input capture, and the ADC is used to emit music from a buzzer.
+Input capture was used to measure distance and hence pulse width. Timers, PWM, ADC and output compare was used to generate music of different frequencies through the buzzer. A photoresistor was added to control volume with light, and both continuous and discrete modes of operation were implemented.
 
 > Skills: C, Microcontrollers
 
 ### Morse
-*This device allows you to translate a Morse code signal to its alphanumeric representation.*
+*This device allows you to translate a Morse code signal to its alphanumeric representation. This was made as part of a ESE 3500 lab.*
 
 It works by first detecting an incoming signal using an input switch 🎚(using polling or interrupts), then translating and displaying the hidden message in ASCII onto a serial port. It also lights up LEDs based on what signals were received.
 
