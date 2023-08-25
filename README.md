@@ -50,6 +50,6 @@ A <span style="color:green">LCD screen</span> 🖥 is programmed using an Arduin
 ### Morse ┉┉
 *This device allows you to translate a Morse code signal to its alphanumeric representation. This was made as part of a ESE 3500 lab.*
 
-Button presses and the duration of press was monitored using <span style="color:green">polling or interrupts</span> then translated into dots and dashes using <span style="color:green">timer overflows</span>. The message was converted to ASCII and displayed on a serial port.It also lights up LEDs based on whether a dot or a dash was received.
+Button presses and the duration of press was monitored using <span style="color:green">polling or interrupts</span> then translated into dots and dashes using <span style="color:green">timer overflows</span>. The message was converted to ASCII and displayed on a serial port. LEDs were also lit up based on whether a dot or a dash was received.
 
 > Skills: C, Microcontrollers
