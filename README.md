@@ -36,7 +36,7 @@ This involved three parts.
 ### Pong 🏓
 *Pong is one of the first ever computer games 🎮 created. It's quite simple - two paddles and a ball and the goal is to defeat the opponent by making them lose the ball. This was made as part of a ESE 3500 lab.*
 
-In this project, a <span style="color:green">LCD screen</span> 🖥 is programmed using an Arduino Uno and <span style="color:green">SPI</span>, and its graphics library is written with the help of some given .h files. A buzzer, joystick, LEDs, and a logic level shifter is also used. The <span style="color:green">NodeMCU</span> board is used for wireless control of the joystick.
+A <span style="color:green">LCD screen</span> 🖥 is programmed using an Arduino Uno and <span style="color:green">SPI</span>, and its graphics library is written with the help of some given .h files. A buzzer, joystick, LEDs, and a logic level shifter is also used. The <span style="color:green">NodeMCU</span> board is used for wireless control of the joystick.
 
 > Skills: C, Microcontrollers
 
@@ -50,6 +50,6 @@ In this project, a <span style="color:green">LCD screen</span> 🖥 is programme
 ### Morse ┉┉
 *This device allows you to translate a Morse code signal to its alphanumeric representation. This was made as part of a ESE 3500 lab.*
 
-It works by first detecting an incoming signal using an input switch 🎚(using <span style="color:green">polling or interrupts</span>), then translating and displaying the hidden message in ASCII onto a serial port. It also lights up LEDs based on what signals were received.
+Button presses and the duration of press was monitored using <span style="color:green">polling or interrupts</span> then translated into dots and dashes using <span style="color:green">timer overflows</span>. The message was converted to ASCII and displayed on a serial port.It also lights up LEDs based on whether a dot or a dash was received.
 
 > Skills: C, Microcontrollers
