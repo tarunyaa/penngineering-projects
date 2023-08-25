@@ -10,6 +10,14 @@ Multiple simulations were conducted on LTSpice and the different stages of the m
 > Skills: PCB Design & Assembly, Altium Designer, LTSpice, Oscilloscope
 
 ### Hand-Powered Hand
+*An animatronic hand was made that mimics the gestures of a human hand and communicates with it wirelessly, as part of the ESE 3500 Final Project.*
+
+This involved three parts.
+1. <span style="color:purple">Sensing</span> involves measuring accurate readings of the motion of the human hand using a glove integrated with flex sensors and the Arduino's ADC.
+2. <span style="color:purple">Actuation</span> involves the corresponding movement of a mechanically designed hand using servo motors.
+3. <span style="color:purple">Wireless</span> communication involves transmission between the Arduino attached to the glove and the mechanical hand using nrf24L01 modules.
+In all, the project hopes to prove useful in applications where human hands cannot be used in hazardous situations, telecommunications, and physical disability. 
+
 > Skills: C, Microcontrollers, Wireless Communication, Mechanical Design
 
 ### Coupled Learning Neural Network
