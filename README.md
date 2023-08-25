@@ -1,6 +1,5 @@
 <p align="center">
 | [Home](https://tarunyaa.github.io) [neuro42 Projects](https://tarunyaa.github.io/neuro42-projects/) 📡 [Physics Projects](https://tarunyaa.github.io/physics-projects/) 🔭 [Science Communication Projects](https://tarunyaa.github.io/science-communication-projects/) 🗣 |
-| :-: |
 </p>
 
 ## Penngineering Projects
