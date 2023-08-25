@@ -13,9 +13,9 @@ Multiple simulations were conducted on LTSpice and the different stages of the m
 *An animatronic hand was made that mimics the gestures of a human hand and communicates with it wirelessly, as part of the ESE 3500 Final Project.*
 
 This involved three parts.
-1. <span style="color:purple">Sensing</span> involves measuring accurate readings of the motion of the human hand using a glove integrated with flex sensors and the Arduino's ADC.
-2. <span style="color:purple">Actuation</span> involves the corresponding movement of a mechanically designed hand using servo motors.
-3. <span style="color:purple">Wireless</span> communication involves transmission between the Arduino attached to the glove and the mechanical hand using nrf24L01 modules.
+1. <span style="color:purple">Sensing</span> i.e. measuring accurate readings of the motion of the human hand using a glove integrated with flex sensors and the Arduino's ADC.
+2. <span style="color:purple">Actuation</span> i.e. the corresponding movement of a mechanically designed hand using servo motors.
+3. <span style="color:purple">Wireless</span> i.e. involves transmission between the Arduino attached to the glove and the mechanical hand using nrf24L01 modules.
 In all, the project hopes to prove useful in applications where human hands cannot be used in hazardous situations, telecommunications, and physical disability. 
 
 > Skills: C, Microcontrollers, Wireless Communication, Mechanical Design
@@ -24,7 +24,14 @@ In all, the project hopes to prove useful in applications where human hands cann
 > Skills: PCB Design & Assembly, Altium Designer
 
 ### Closed-Loop Holographic Control of Nanorobots
-> Skills: Python, Optics, Spatial Light Modulator
+*Nanorobots were holographically illuminated and controlled in the field of view of a spatial light modulator (SLM) using a laser 🚨 and microscope 🔬.*
+
+This involved three parts.
+1. Investigating the <span style="color:green">Gerchberg-Saxton Algorithm</span> for the retrieval of phase information from intensity measurements and enabling the patterning of laser light.
+2. Using span <span style="color:green">Computer Vision</span> (OpenCV package) to identity nanorobots.
+3. Fixing alignment issues between the DSLR and SLM frame using <span style="color:green">matrix transformations</span>, to shine light precisely on the nanorobots.
+
+> Skills: Python, OpenCV, Optics, Spatial Light Modulator
 
 ### Pong
 > Skills: C, Microcontrollers
