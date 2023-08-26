@@ -11,7 +11,7 @@
 
 Multiple simulations were conducted on LTSpice and the different stages of the metal detector circuitry were breadboarded in previous labs before the layout of the components on Altium was done for the creation of a printed circuit board (PCB). 
 
-> Skills: PCB Design & Assembly, Altium Designer, LTSpice, Oscilloscope
+Skills: PCB Design & Assembly, Altium Designer, LTSpice, Oscilloscope
 
 ### Hand-Powered Hand ✋
 *An animatronic hand was made that mimics the gestures of a human hand and communicates with it wirelessly, as part of the ESE 3500 Final Project.*
