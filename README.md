@@ -11,7 +11,7 @@ Multiple simulations were conducted on LTSpice and the different stages of the m
 
 > | Skills: PCB Design & Assembly, Altium Designer, LTSpice, Oscilloscope | [Final Report](https://docs.google.com/document/d/1lSRqYki_kLG4mkxcrpkX_QWUJBbK84d-gT7Wg24nhkQ/edit?usp=sharing) |
 
-![Metal Detector](Metal detector.png)
+![Metal Detector](Screen Shot 2023-08-26 at 1.23.03 AM.png)
 
 ### Hand-Powered Hand ✋
 *An animatronic hand was made that mimics the gestures of a human hand and communicates with it wirelessly, as part of the ESE 3500 Final Project.*
@@ -23,6 +23,8 @@ This involved three parts.
 In all, the project hopes to prove useful in applications where human hands cannot be used in hazardous situations, telecommunications, and physical disability. 
 
 > | Skills: C, Microcontrollers, Wireless Communication, Mechanical Design | [Github](https://github.com/tarunyaa/handpoweredhand) |
+
+![Hand Powered Hand](Screen Shot 2023-08-26 at 1.23.03 AM.png)
 
 ### Coupled Learning Neural Network 🧠
 > | Skills: PCB Design & Assembly, Altium Designer |
