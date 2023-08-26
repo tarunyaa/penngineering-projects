@@ -49,8 +49,9 @@ This involved three parts.
 A <span style="color:green">LCD screen</span> 🖥 is programmed using an Arduino Uno and <span style="color:green">SPI</span>, and its graphics library is written with the help of some given .h files. A buzzer, joystick, LEDs, and a logic level shifter is also used. The <span style="color:green">NodeMCU</span> board is used for wireless control of the joystick.
 
 > | Skills: C, Microcontrollers | [Github](https://github.com/tarunyaa/pong) |
-
-![Pong](Pong.gif)
+<p align="center">
+  ![Pong](Pong.gif)
+</p>
 
 ### Theremin 🎵
 *Theremin is an electronic musical 🎶 instrument controlled without physical contact by the performer, and in this case, controlled by the distance of the user's hand 🖐 from an ultrasonic sensor. This was made as part of a ESE 3500 lab.*
@@ -66,7 +67,9 @@ Button presses and the duration of press was monitored using <span style="color:
 
 > | Skills: C, Microcontrollers | [Github](https://github.com/tarunyaa/morse) |
 
-![Morse](Morse.gif)
+<p align="center">
+  ![Morse](Morse.gif)
+</p>
 
 ### VoluVision 👀
 *VoluVision is a full-colored volumetric 3D display that will revolutionize surgical visualization. YPrize Finalists 2023.*
