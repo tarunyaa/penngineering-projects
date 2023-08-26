@@ -24,7 +24,7 @@ In all, the project hopes to prove useful in applications where human hands cann
 
 > | Skills: C, Microcontrollers, Wireless Communication, Mechanical Design | [Github](https://github.com/tarunyaa/handpoweredhand) |
 
-![Hand Powered Hand](Screen Shot 2023-08-26 at 1.23.03 AM.png)
+![Hand Powered Hand](ezgif.com-video-to-gif.gif)
 
 ### Coupled Learning Neural Network 🧠
 > | Skills: PCB Design & Assembly, Altium Designer |
