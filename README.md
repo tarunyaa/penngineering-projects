@@ -1,4 +1,4 @@
-|[Home](https://tarunyaa.github.io) 🏠   [neuro42 Projects](https://tarunyaa.github.io/neuro42-projects/) 📡   [Physics Projects](https://tarunyaa.github.io/physics-projects/) 🔭   [Science Communication Projects](https://tarunyaa.github.io/science-communication-projects/) 🗣|
+|[Home](https://tarunyaa.github.io) 🏠    [neuro42 Projects](https://tarunyaa.github.io/neuro42-projects/) 📡     [Physics Projects](https://tarunyaa.github.io/physics-projects/) 🔭     [Science Communication Projects](https://tarunyaa.github.io/science-communication-projects/) 🗣  |
 
 ## Penngineering Projects
 
@@ -9,7 +9,7 @@
 
 Multiple simulations were conducted on LTSpice and the different stages of the metal detector circuitry were breadboarded in previous labs before the layout of the components on Altium was done for the creation of a printed circuit board (PCB). 
 
-Skills: PCB Design & Assembly, Altium Designer, LTSpice, Oscilloscope
+> | Skills: PCB Design & Assembly, Altium Designer, LTSpice, Oscilloscope |
 
 ### Hand-Powered Hand ✋
 *An animatronic hand was made that mimics the gestures of a human hand and communicates with it wirelessly, as part of the ESE 3500 Final Project.*
@@ -20,10 +20,10 @@ This involved three parts.
 3. <span style="color:green">Wireless</span> i.e. involves transmission between the Arduino attached to the glove and the mechanical hand using nrf24L01 modules.
 In all, the project hopes to prove useful in applications where human hands cannot be used in hazardous situations, telecommunications, and physical disability. 
 
-> Skills: C, Microcontrollers, Wireless Communication, Mechanical Design | Github
+> | Skills: C, Microcontrollers, Wireless Communication, Mechanical Design | Github |
 
 ### Coupled Learning Neural Network 🧠
-> Skills: PCB Design & Assembly, Altium Designer
+> | Skills: PCB Design & Assembly, Altium Designer |
 
 ### Closed-Loop Holographic Control of Nanorobots 🤖
 *Nanorobots were holographically illuminated and controlled in the field of view of a spatial light modulator (SLM) using a laser 🚨 and microscope 🔬. This was my project during my summer at Miskin Labs.*
@@ -33,25 +33,25 @@ This involved three parts.
 2. Using span <span style="color:green">Computer Vision</span> (OpenCV package) to identity nanorobots.
 3. Fixing alignment issues between the DSLR and SLM frame using <span style="color:green">matrix transformations</span>, to shine light precisely on the nanorobots.
 
-> Skills: Python, OpenCV, Optics, Spatial Light Modulator | Github | [APS Meeting Abstract](https://meetings.aps.org/Meeting/MAR23/Session/Y10.5)
+> | Skills: Python, OpenCV, Optics, Spatial Light Modulator | Github | [APS Meeting Abstract](https://meetings.aps.org/Meeting/MAR23/Session/Y10.5) |
 
 ### Pong 🏓
 *Pong is one of the first ever computer games 🎮 created. It's quite simple - two paddles and a ball and the goal is to defeat the opponent by making them lose the ball. This was made as part of a ESE 3500 lab.*
 
 A <span style="color:green">LCD screen</span> 🖥 is programmed using an Arduino Uno and <span style="color:green">SPI</span>, and its graphics library is written with the help of some given .h files. A buzzer, joystick, LEDs, and a logic level shifter is also used. The <span style="color:green">NodeMCU</span> board is used for wireless control of the joystick.
 
-> Skills: C, Microcontrollers
+> | Skills: C, Microcontrollers |
 
 ### Theremin 🎵
 *Theremin is an electronic musical 🎶 instrument controlled without physical contact by the performer, and in this case, controlled by the distance of the user's hand 🖐 from an ultrasonic sensor. This was made as part of a ESE 3500 lab.*
 
 <span style="color:green">Input capture</span> was used to measure distance and hence pulse width. <span style="color:green">Timers, PWM, ADC and output compare </span>was used to generate music of different frequencies through the buzzer. A <span style="color:green">photoresistor</span> was added to control volume with light, and both <span style="color:green">continuous and discrete</span> modes of operation were implemented.
 
-> Skills: C, Microcontrollers | Github
+> | Skills: C, Microcontrollers | Github |
 
 ### Morse ┉┉
 *Morse code signals was translated to its alphanumeric representation. This was made as part of a ESE 3500 lab.*
 
 Button presses and the duration of press was monitored using <span style="color:green">polling or interrupts</span> then translated into dots and dashes using <span style="color:green">timer overflows</span>. The message was converted to ASCII and displayed on a serial port. LEDs were also lit up based on whether a dot or a dash was received.
 
-> Skills: C, Microcontrollers | Github
+> | Skills: C, Microcontrollers | Github |
