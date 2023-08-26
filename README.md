@@ -11,7 +11,7 @@ Multiple simulations were conducted on LTSpice and the different stages of the m
 
 > | Skills: PCB Design & Assembly, Altium Designer, LTSpice, Oscilloscope | [Final Report](https://docs.google.com/document/d/1lSRqYki_kLG4mkxcrpkX_QWUJBbK84d-gT7Wg24nhkQ/edit?usp=sharing) |
 
-![Metal Detector](Screen Shot 2023-08-26 at 1.23.03 AM.png)
+![Metal Detector](Metal detector Collage.png)
 
 ### Hand-Powered Hand ✋
 *An animatronic hand was made that mimics the gestures of a human hand and communicates with it wirelessly, as part of the ESE 3500 Final Project.*
@@ -24,7 +24,9 @@ In all, the project hopes to prove useful in applications where human hands cann
 
 > | Skills: C, Microcontrollers, Wireless Communication, Mechanical Design | [Github](https://github.com/tarunyaa/handpoweredhand) |
 
-![Hand Powered Hand](ezgif.com-video-to-gif.gif)
+<p align="center">
+  ![Hand Powered Hand](Handpoweredhand.gif)
+</p>
 
 ### Coupled Learning Neural Network 🧠
 > | Skills: PCB Design & Assembly, Altium Designer |
@@ -39,12 +41,16 @@ This involved three parts.
 
 > | Skills: Python, OpenCV, Optics, Spatial Light Modulator | [APS Meeting Abstract](https://meetings.aps.org/Meeting/MAR23/Session/Y10.5) |
 
+![Nanorobots](Nanorobots.png)
+
 ### Pong 🏓
 *Pong is one of the first ever computer games 🎮 created. It's quite simple - two paddles and a ball and the goal is to defeat the opponent by making them lose the ball. This was made as part of a ESE 3500 lab.*
 
 A <span style="color:green">LCD screen</span> 🖥 is programmed using an Arduino Uno and <span style="color:green">SPI</span>, and its graphics library is written with the help of some given .h files. A buzzer, joystick, LEDs, and a logic level shifter is also used. The <span style="color:green">NodeMCU</span> board is used for wireless control of the joystick.
 
 > | Skills: C, Microcontrollers | [Github](https://github.com/tarunyaa/pong) |
+
+![Pong](Pong.gif)
 
 ### Theremin 🎵
 *Theremin is an electronic musical 🎶 instrument controlled without physical contact by the performer, and in this case, controlled by the distance of the user's hand 🖐 from an ultrasonic sensor. This was made as part of a ESE 3500 lab.*
@@ -60,9 +66,14 @@ Button presses and the duration of press was monitored using <span style="color:
 
 > | Skills: C, Microcontrollers | [Github](https://github.com/tarunyaa/morse) |
 
+![Morse](Morse.gif)
+
 ### VoluVision 👀
 *VoluVision is a full-colored volumetric 3D display that will revolutionize surgical visualization. YPrize Finalists 2023.*
 
 Based on IP from the University of Pennsylvania, the display’s pixels are microflyers - nanocarboarded polymer films of 0.25 mm diameter with payloads of colored microLEDs. These microflyers levitate to various altitudes upon incident laser light of 10 Suns intensity that has been patterned by a spatial light modulator (SLM). Their mechanism for levitation is photophoretic and is researched by the Bargatin group (we have their permission to use their technology). This is all packaged in a glass vacuum chamber to enable low pressures and prevent the laser light from escaping the box's coated polarizer. 
 
 > | Skills: Team Management, Market Research, Engineering Design |
+
+![VoluVision](VoluVision.gif)
+
