@@ -23,8 +23,8 @@ This involved three parts.
 In all, the project hopes to prove useful in applications where human hands cannot be used in hazardous situations, telecommunications, and physical disability. 
 
 > | Skills: C, Microcontrollers, Wireless Communication, Mechanical Design | [Github](https://github.com/tarunyaa/handpoweredhand) |
-
-![Hand Powered Hand](Handpoweredhandcrop.gif)
+> 
+<div align=”center”>![Hand Powered Hand](Handpoweredhandcrop.gif)</div>
 
 ### Coupled Learning Neural Network 🧠
 > | Skills: PCB Design & Assembly, Altium Designer |
@@ -39,7 +39,7 @@ This involved three parts.
 
 > | Skills: Python, OpenCV, Optics, Spatial Light Modulator | [APS Meeting Abstract](https://meetings.aps.org/Meeting/MAR23/Session/Y10.5) |
 
-![Nanorobots](Nanorobots.png)
+![Nanorobots](Nanrobots.png)
 
 ### Pong 🏓
 *Pong is one of the first ever computer games 🎮 created. It's quite simple - two paddles and a ball and the goal is to defeat the opponent by making them lose the ball. This was made as part of a ESE 3500 lab.*
@@ -64,8 +64,6 @@ Button presses and the duration of press was monitored using <span style="color:
 
 > | Skills: C, Microcontrollers | [Github](https://github.com/tarunyaa/morse) |
 
-![Morse](Morse.gif)
-
 ### VoluVision 👀
 *VoluVision is a full-colored volumetric 3D display that will revolutionize surgical visualization. YPrize Finalists 2023.*
 
@@ -73,5 +71,5 @@ Based on IP from the University of Pennsylvania, the display’s pixels are micr
 
 > | Skills: Team Management, Market Research, Engineering Design |
 
-![VoluVision](VoluVision.png)
+![VoluVision](VoluVision.jpeg)
 
