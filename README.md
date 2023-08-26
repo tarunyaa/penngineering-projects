@@ -1,6 +1,6 @@
 |[Home](https://tarunyaa.github.io) 🏠    [neuro42 Projects](https://tarunyaa.github.io/neuro42-projects/) 📡     [Physics Projects](https://tarunyaa.github.io/physics-projects/) 🔭     [Science Communication Projects](https://tarunyaa.github.io/science-communication-projects/) 🗣  |
 
-## Penngineering Projects
+## Penngineering Projects 🦾
 
 ### Metal Detector 🤘
 *A working metal detector was designed, simulated, built and demonstrated from scratch, as part of the ESE 3190 Final Project.*
@@ -55,3 +55,10 @@ A <span style="color:green">LCD screen</span> 🖥 is programmed using an Arduin
 Button presses and the duration of press was monitored using <span style="color:green">polling or interrupts</span> then translated into dots and dashes using <span style="color:green">timer overflows</span>. The message was converted to ASCII and displayed on a serial port. LEDs were also lit up based on whether a dot or a dash was received.
 
 > | Skills: C, Microcontrollers | Github |
+
+### VoluVision 👀
+*VoluVision is a full-colored volumetric 3D display that will revolutionize surgical visualization. YPrize Finalists 2023.*
+
+Based on IP from the University of Pennsylvania, the display’s pixels are microflyers - nanocarboarded polymer films of 0.25 mm diameter with payloads of colored microLEDs. These microflyers levitate to various altitudes upon incident laser light of 10 Suns intensity that has been patterned by a spatial light modulator (SLM). Their mechanism for levitation is photophoretic and is researched by the Bargatin group (we have their permission to use their technology). This is all packaged in a glass vacuum chamber to enable low pressures and prevent the laser light from escaping the box's coated polarizer. 
+
+> | Skills: Team Management, Market Research, Engineering Design | Pitch Deck |
