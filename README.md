@@ -24,7 +24,7 @@ In all, the project hopes to prove useful in applications where human hands cann
 
 > | Skills: C, Microcontrollers, Wireless Communication, Mechanical Design | [Github](https://github.com/tarunyaa/handpoweredhand) |
 
-![Hand Powered Hand](Handpoweredhand.gif)
+![Hand Powered Hand](Handpoweredhandcrop.gif)
 
 ### Coupled Learning Neural Network 🧠
 > | Skills: PCB Design & Assembly, Altium Designer |
@@ -73,5 +73,5 @@ Based on IP from the University of Pennsylvania, the display’s pixels are micr
 
 > | Skills: Team Management, Market Research, Engineering Design |
 
-![VoluVision](VoluVision.gif)
+![VoluVision](VoluVision.png)
 
