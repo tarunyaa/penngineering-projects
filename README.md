@@ -11,6 +11,8 @@ Multiple simulations were conducted on LTSpice and the different stages of the m
 
 > | Skills: PCB Design & Assembly, Altium Designer, LTSpice, Oscilloscope | [Final Report](https://docs.google.com/document/d/1lSRqYki_kLG4mkxcrpkX_QWUJBbK84d-gT7Wg24nhkQ/edit?usp=sharing) |
 
+![Metal Detector](Metal detector.png)
+
 ### Hand-Powered Hand ✋
 *An animatronic hand was made that mimics the gestures of a human hand and communicates with it wirelessly, as part of the ESE 3500 Final Project.*
 
